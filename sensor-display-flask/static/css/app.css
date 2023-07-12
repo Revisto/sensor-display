@@ -1,0 +1,31 @@
+.hero {
+    background: #eee;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 1em;
+}
+
+.hero h1 {
+    margin-top: 0;
+    margin-bottom: 0.3em;
+    text-align: center;
+}
+
+
+.chart-container {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.container {
+    margin: auto;
+    width: 49%;
+    display: inline-block;
+}
+
+
+.killbtn {
+    background-image: linear-gradient(to right, rgb(199 158 187) 0%, rgb(97 125 171) 100%) !important;
+    width: -webkit-fill-available;
+    height: 40px;  
+}
