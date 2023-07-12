@@ -3,7 +3,7 @@
 
 Sensor Tracker shows the 4 turbine sensors in different charts to be monitored and the agent would be able to stop the turbine if anything went wrong.
 
-![](https://raw.githubusercontent.com/Revisto/sensor-display/master/media/turbine.mp4)
+![](https://github.com/Revisto/sensor-display/blob/master/media/turbine.gif)
 
 
 ## ⚙️ Installation
@@ -21,7 +21,7 @@ Now clone the repo:
 git clone https://github.com/revisto/sensor-display
 cd sensor-display
 ```
-![](https://raw.githubusercontent.com/Revisto/sensor-display/master/media/demo.mp4)
+![](https://github.com/Revisto/sensor-display/blob/master/media/demo.gif)
 
 ## Docker
 
